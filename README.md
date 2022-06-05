@@ -1,6 +1,6 @@
 # Tela-de-Login-Responsiva-com-html-css
 
-<img src="./img/logo-Responsiva.png/" width="400px" alt="">
+<img src="./img/logo-Responsiva.png/" width="900px" alt="tela de login Responsiva">
 
 
 ### Ajustes e melhorias
